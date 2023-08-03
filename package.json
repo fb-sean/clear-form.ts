@@ -1,6 +1,6 @@
 {
     "name": "clear-form.ts",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "dist/index.js",
     "typings": "typings/index.d.ts",
     "scripts": {
@@ -10,7 +10,7 @@
     "contributors": [
         "fb-sean <sean@sattler.dev>"
     ],
-    "license": "Apache-2.0",
+    "license": "MIT",
     "keywords": [
         "utility",
         "form",
