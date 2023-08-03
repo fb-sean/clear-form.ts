@@ -1,0 +1,29 @@
+{
+    "name": "clear-form.ts",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "typings": "typings/index.d.ts",
+    "scripts": {
+        "build": "tsc --declaration --outDir dist --lib dom,es6"
+    },
+    "author": "fb-sean <sean@sattler.dev>",
+    "contributors": [
+        "fb-sean <sean@sattler.dev>"
+    ],
+    "license": "Apache-2.0",
+    "keywords": [
+        "utility",
+        "form",
+        "html-form",
+        "clear-form"
+    ],
+    "files": [
+        "dist"
+    ],
+    "dependencies": {
+        "@types/node": "^20.2.5"
+    },
+    "devDependencies": {
+        "typescript": "^5.1.3"
+    }
+}
