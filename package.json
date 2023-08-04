@@ -1,8 +1,8 @@
 {
     "name": "clear-form.ts",
-    "version": "1.0.1",
-    "main": "dist/index.js",
-    "typings": "typings/index.d.ts",
+    "version": "1.0.2",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
     "scripts": {
         "build": "tsc --declaration --outDir dist --lib dom,es6"
     },
@@ -10,15 +10,20 @@
     "contributors": [
         "fb-sean <sean@sattler.dev>"
     ],
-    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fb-sean/clear-form.ts.git"
+    },
+    "bugs": {
+        "url": "https://github.com/fb-sean/clear-form.ts/issues"
+    },
+    "homepage": "https://github.com/fb-sean/clear-form.ts",
+    "license": "Apache-2.0",
     "keywords": [
         "utility",
         "form",
         "html-form",
         "clear-form"
-    ],
-    "files": [
-        "dist"
     ],
     "dependencies": {
         "@types/node": "^20.2.5"

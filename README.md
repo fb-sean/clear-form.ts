@@ -1,4 +1,5 @@
 # clear-form.ts
+> A simple package to clear a html form. 
 
 [![discordBadge](https://img.shields.io/badge/Chat-Click%20here-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/ZVERh35)
 [![downloadsBadge](https://img.shields.io/npm/dt/clear-form.ts?style=for-the-badge)](https://npmjs.com/clear-form.ts)
@@ -10,8 +11,6 @@
 /"><img src="https://nodei.co/npm/clear-form.ts.png?downloads=true&stars=true" alt="NPM Info" /></a>
   </p>
 </div>
-
-A simple package to clear a html form. 
 
 # 📂・Installation
 ```powershell
