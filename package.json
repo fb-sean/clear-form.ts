@@ -18,7 +18,7 @@
         "url": "https://github.com/fb-sean/clear-form.ts/issues"
     },
     "homepage": "https://github.com/fb-sean/clear-form.ts",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "keywords": [
         "utility",
         "form",
